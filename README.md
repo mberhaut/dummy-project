@@ -1,5 +1,5 @@
-# dummy-project
-Dummy project to check the fork operation axioms
+# FORKED dummy-project
+Dummy project to check the fork operation axioms. This version comes a fork.
 
 ## Axioms
 * Quid du fork de projet lorsque ce projet passe en statut privé ?
